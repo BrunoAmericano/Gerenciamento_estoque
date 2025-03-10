@@ -1,4 +1,4 @@
-from funcoes import *
+from CodigoFonte.funcoes import *
 
 while True:
     print("\nSistema de Gerenciamento de Estoque")
